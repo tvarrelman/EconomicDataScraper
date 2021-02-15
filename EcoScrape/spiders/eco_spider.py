@@ -7,7 +7,7 @@ import numpy as np
 import pandas as pd 
 
 """ 
-	This spider scrapes Consumer Price Index (COI)
+	This spider scrapes Consumer Price Index (CPI)
 	data from the U.S. Bureau of Labor Statistics
 """
 
